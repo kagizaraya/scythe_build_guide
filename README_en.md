@@ -78,7 +78,7 @@ In addition, you may also prepare the following as necessary.
 
 ![MPU](images/IMG_3464.jpg)
 
-For the QFP package soldering, this [movie] (https://www.youtube.com/watch?v=-8SRkSjkZ8A) may be helpful.
+For the QFP package soldering, this [movie](https://www.youtube.com/watch?v=-8SRkSjkZ8A) may be helpful.
 
 ## Solder crystal oscilators
 1. Align the long side of the crystal oscillator (which may be either long side) so that it comes to the position of the part number (Y1) on the board and place it at the center of the four pads.
