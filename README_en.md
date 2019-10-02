@@ -86,7 +86,7 @@ For the QFP package soldering, this [movie](https://www.youtube.com/watch?v=-8SR
 
 ![Crystal](images/IMG_3465.jpg)
 
-This [movie] (https://www.youtube.com/watch?v=14fJTgFg03M) may be helpful for soldering SMD crystal oscillator.
+This [movie](https://www.youtube.com/watch?v=14fJTgFg03M) may be helpful for soldering SMD crystal oscillator.
 
 ## Solder resistors
 1. Resistors(R1-R5 and R38 for left, R1-R3, R37, R38, R41 and R42 for right) are really small so they lose sight of it quickly. When soldering, remove them one at a time from the tape.
