@@ -8,6 +8,10 @@
 ## Confirm contents
 The following parts are included in the kit. Please check whether there is any shortage before work.
 
+The pre-soldered edition includes only the part number (1) and (15) through (25), so please check them.
+
+
+
 ![Contents of kit](images/IMG_3416.jpg)
 
 Number | Name | Value | Qty | Remarks | Place(Left hand) | Place(Right hand) 
@@ -71,6 +75,17 @@ In addition, you may also prepare the following as necessary.
 
 * Flux remover
 * Solder wick
+
+
+
+# Build procedure
+
+For the pre-soldered edition, proceed with building from the section "[Verify that it is recognized as a USB device](#verify-that-it-is-recognized-as-a-usb-device)".
+
+For the pre-soldered edition with the backlight LED, proceed with building from the section "[Solder resistors for backlight (optional)](#solder-resistors-for-backlight-optional)"
+
+
+
 
 ## Solder MPUs
 1. Place the ● mark (pin 1 marking) on the MPU aligned with the ○ mark on the board.
